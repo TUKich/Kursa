@@ -1,0 +1,16 @@
+C:\Users\TUKeS\RiderProjects\Курс2\Курс2\bin\Debug\net5.0\Курс2.exe
+C:\Users\TUKeS\RiderProjects\Курс2\Курс2\bin\Debug\net5.0\Курс2.deps.json
+C:\Users\TUKeS\RiderProjects\Курс2\Курс2\bin\Debug\net5.0\Курс2.runtimeconfig.json
+C:\Users\TUKeS\RiderProjects\Курс2\Курс2\bin\Debug\net5.0\Курс2.runtimeconfig.dev.json
+C:\Users\TUKeS\RiderProjects\Курс2\Курс2\bin\Debug\net5.0\Курс2.dll
+C:\Users\TUKeS\RiderProjects\Курс2\Курс2\bin\Debug\net5.0\ref\Курс2.dll
+C:\Users\TUKeS\RiderProjects\Курс2\Курс2\bin\Debug\net5.0\Курс2.pdb
+C:\Users\TUKeS\RiderProjects\Курс2\Курс2\obj\Debug\net5.0\Курс2.csproj.AssemblyReference.cache
+C:\Users\TUKeS\RiderProjects\Курс2\Курс2\obj\Debug\net5.0\Курс2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TUKeS\RiderProjects\Курс2\Курс2\obj\Debug\net5.0\Курс2.AssemblyInfoInputs.cache
+C:\Users\TUKeS\RiderProjects\Курс2\Курс2\obj\Debug\net5.0\Курс2.AssemblyInfo.cs
+C:\Users\TUKeS\RiderProjects\Курс2\Курс2\obj\Debug\net5.0\Курс2.csproj.CoreCompileInputs.cache
+C:\Users\TUKeS\RiderProjects\Курс2\Курс2\obj\Debug\net5.0\Курс2.dll
+C:\Users\TUKeS\RiderProjects\Курс2\Курс2\obj\Debug\net5.0\ref\Курс2.dll
+C:\Users\TUKeS\RiderProjects\Курс2\Курс2\obj\Debug\net5.0\Курс2.pdb
+C:\Users\TUKeS\RiderProjects\Курс2\Курс2\obj\Debug\net5.0\Курс2.genruntimeconfig.cache
