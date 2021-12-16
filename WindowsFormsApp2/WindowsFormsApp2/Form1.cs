@@ -35,15 +35,25 @@ namespace WindowsFormsApp2
                 List<double> xi = new List<double>();
                 double resultmax;
                 double resultmin;
+                MaxX = 0;
+                MinX = 0;
+                Max = 0;
+                Min = 0;
+                Pmin = 1;
+                Pmax = 1;
                 for (double x = a; x <= b; x += h)
                 {
-                    int sign = -1;
-                    double divider = 1, result = x;
-                    for (int k = 1; k <= 10; k++)
+                  //  double sign = -1;
+                    double divider = 1, result = 0, del = 1;
+                    
+                    for (double k = 1; k <= 10; k++)
                     {
-                        sign = sign^k;
-                        divider *= Math.Sin(x);
-                        result += sign *((x * divider)/k);
+                        
+                        divider = Math.Sin(x);
+                       // del = (x * divider) / k;
+                        result +=Math.Pow(-1,k)*(x * Math.Pow(divider,k)) / k;
+                   //     sign *= sign;
+
                     }
                     this.chart1.Series[0].Points.AddXY(x, result);
                     xi.Add(x);
