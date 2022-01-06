@@ -1,0 +1,9 @@
+C:\Users\TUKeS\source\repos\Kur1U\Kur1U\bin\Debug\Kur1U.exe.config
+C:\Users\TUKeS\source\repos\Kur1U\Kur1U\bin\Debug\Kur1U.exe
+C:\Users\TUKeS\source\repos\Kur1U\Kur1U\bin\Debug\Kur1U.pdb
+C:\Users\TUKeS\source\repos\Kur1U\Kur1U\obj\Debug\Kur1U.csprojAssemblyReference.cache
+C:\Users\TUKeS\source\repos\Kur1U\Kur1U\obj\Debug\Kur1U.Form1.resources
+C:\Users\TUKeS\source\repos\Kur1U\Kur1U\obj\Debug\Kur1U.Properties.Resources.resources
+C:\Users\TUKeS\source\repos\Kur1U\Kur1U\obj\Debug\Kur1U.csproj.GenerateResource.cache
+C:\Users\TUKeS\source\repos\Kur1U\Kur1U\obj\Debug\Kur1U.exe
+C:\Users\TUKeS\source\repos\Kur1U\Kur1U\obj\Debug\Kur1U.pdb
